@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Suit Game</string>
+    <string name="text_round_textview">Enter How Many Rounds</string>
+    <string name="text_start_button">Start</string>
+    <string name="text_player_textview">Player</string>
+    <string name="text_computer_textview">Computer</string>
+    <string name="text_roundof_textview">round %1$d of %2$d</string>
+    <string name="text_score_textview">0</string>
+    <string name="text_result_match">You are %1$s</string>
+    <string name="text_winner">Winner</string>
+    <string name="text_lose">Lose</string>
+    <string name="text_draw">Draw</string>
+    <string name="game_over">Game Over</string>
+    <string name="text_result_match_draw">Draw</string>
+    <string name="text_play_again_button">Play Again</string>
+    <string name="text_cancel_button">Cancel</string>
+    <string name="text_vs">VS</string>
+</resources>

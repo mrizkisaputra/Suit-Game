@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextStyle">
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="fontFamily">@font/nunito</item>
+    </style>
+
+    <style name="TextStyle.Headline3" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/noto_sans_bold</item>
+    </style>
+
+    <style name="TextStyle.Button">
+        <item name="android:fontFamily">@font/nunito_extrabold</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextStyle.Bold">
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/nunito_extrabold</item>
+    </style>
+
+    <style name="TextStyle.Bold.Large">
+        <item name="android:textSize">21sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/nunito_extrabold</item>
+    </style>
+
+    <style name="TextStyle.SubTitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+
+    </style>
+
+    <style name="TextStyle.Body1" parent="TextAppearance.MaterialComponents.Body1">
+
+    </style>
+
+</resources>
